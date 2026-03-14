@@ -1,0 +1,19 @@
+{
+  "files": {
+    "/.flexos/docs/001-vision.md": {
+      "id": "core-vision",
+      "title": "Vision & Strategy",
+      "description": "",
+      "type": "doc",
+      "subtype": "guide",
+      "status": "active",
+      "tags": [
+        "vision",
+        "strategy",
+        "personas"
+      ],
+      "relatesTo": [],
+      "updatedAt": "2026-03-14T20:44:02.842Z"
+    }
+  }
+}

@@ -1,12 +1,16 @@
 ---
 id: core-vision
-title: "Vision & Strategy"
+title: Vision & Strategy
 type: doc
-subtype: core
+subtype: guide
 status: active
 sequence: 1
-tags: [vision, strategy, personas]
-createdAt: "{{created_at}}"
+tags:
+  - vision
+  - strategy
+  - personas
+createdAt: '{{created_at}}'
+updatedAt: '2026-03-14T20:44:02.842Z'
 ---
 
 <flex_block type="instructions">
