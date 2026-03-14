@@ -1,48 +1,34 @@
 ---
-id: context-about
-title: "About the Project"
-type: content
-subtype: record
-status: draft
-collection: context
-tags: [context, about]
-createdAt: "{{created_at}}"
+type: doc
+subtype: context
+title: About the Project
+description: Core vision, problem, solution, and audience for the platform.
+sequence: 1
+status: active
+createdAt: 2024-05-16T12:00:00Z
+updatedAt: 2024-05-16T12:00:00Z
 ---
 
-<flex_block type="instructions">
-This is unstructured background information the client or founder has provided about their project, company, or idea. It's not a spec or a schema — it's context. The AI reads this when generating docs, copy, or prototypes to ground its output in real-world details.
+# About the Project: Neighbourhood Dog Walking Platform
 
-This might contain: company history, target market insights, competitor notes, brand preferences, past attempts, personal motivation, domain expertise, or anything else the founder wants the AI to know.
-</flex_block>
+## Vision
+To create a seamless and trustworthy platform connecting local dog walkers with pet owners, offering convenience, real-time updates, and peace of mind.
 
-# About the Project
+## Problem Solved
+Pet owners often struggle to find reliable and local dog walkers, manage bookings, and stay informed about their dog's well-being during walks. Dog walkers need an efficient way to connect with clients and manage their services.
 
-(This is where the founder writes — or pastes — everything the AI should know about the project that doesn't fit neatly into a spec. Free-form, no structure required.)
+## Solution
+A mobile-first platform enabling:
+- **Pet Owners:** Discover available dog walkers in their neighbourhood, book walks, track their dog's location in real-time during a walk, and provide feedback through reviews.
+- **Dog Walkers:** Create profiles, set availability, accept bookings, and manage their walking services efficiently.
 
-## About the Company
+## Target Audience
+- **Primary:** Pet owners (dog owners specifically) looking for convenient, reliable, and transparent dog walking services.
+- **Secondary:** Independent dog walkers seeking clients and a platform to manage their business.
 
-(Who are you? What's the backstory? How did this idea come about?)
-
-## The Problem
-
-(What's broken? Who's affected? How do people deal with it today?)
-
-## The Vision
-
-(What does success look like? What's the dream outcome?)
-
-## What We've Tried
-
-(Any previous attempts, prototypes, or competitors studied?)
-
-## Constraints
-
-(Budget, timeline, technical limitations, team size, regulatory requirements?)
-
-## Tone & Personality
-
-(How should this product feel? Formal? Playful? Technical? Friendly? Any brands to reference as inspiration?)
-
-## Anything Else
-
-(Dump anything here. The AI will use it as context for better generation.)
+## Key Features Mentioned
+- Connecting dog walkers with pet owners
+- Pet owners view available walkers
+- Booking walks
+- Real-time dog tracking during walks
+- Leaving reviews
