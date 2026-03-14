@@ -1,19 +1,21 @@
 {
   "files": {
     "/.flexos/docs/001-vision.md": {
-      "id": "core-vision",
-      "title": "Vision & Strategy",
-      "description": "",
+      "id": "blank-face-vision",
+      "title": "Blank Face Vision Document",
+      "description": "Vision for a platform connecting dog walkers and pet owners, named Blank Face.",
       "type": "doc",
-      "subtype": "guide",
+      "subtype": "core",
       "status": "active",
       "tags": [
         "vision",
-        "strategy",
-        "personas"
+        "dog-walking",
+        "pet-services",
+        "marketplace",
+        "community"
       ],
       "relatesTo": [],
-      "updatedAt": "2026-03-14T20:44:02.842Z"
+      "updatedAt": "2026-03-14T21:45:46.249Z"
     }
   }
 }
